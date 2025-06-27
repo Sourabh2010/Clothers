@@ -161,7 +161,7 @@ fun SignUpScreen() {
             Spacer(modifier = Modifier.size(8.dp))
             Text("Login with Google")
         }
-        Box {  }
+        Box { sourabh }
 
     }
 
