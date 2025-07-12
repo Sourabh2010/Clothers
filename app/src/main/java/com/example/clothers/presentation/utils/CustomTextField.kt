@@ -1,4 +1,4 @@
-package com.example.clothers.ui.theme.presentation.utils
+package com.example.clothers.presentation.utils
 
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material3.Icon
